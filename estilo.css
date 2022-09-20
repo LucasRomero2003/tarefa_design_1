@@ -7,6 +7,8 @@ body {
 div {
     display: inline-block;
     width: 50%;
-    border: 2px solid;
-    border-color: red;  
+}
+
+a {
+    color: white;
 }
